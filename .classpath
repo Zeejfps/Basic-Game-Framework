@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Zeejfps/Google Drive/Programming/Java/Libs/joml/jar/joml.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://joml-ci.github.io/JOML/apidocs/index.html"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Zeejfps/Google Drive/Programming/Java/Libs/lwjgl/jar/lwjgl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Zeejfps/Google%20Drive/Programming/Java/Libs/lwjgl/doc/javadoc.zip!/"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/Zeejfps/Google Drive/Programming/Java/Libs/lwjgl/native"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
